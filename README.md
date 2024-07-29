@@ -1,20 +1,5 @@
-# No Longer Maintained
+# SabbathMapping
 
-This project is no longer mantained due to the existence of a hostile fork.
-
-# CrackMapExec
-
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg" alt="cme"/>
-</p>
-
-You are on the **latest up-to-date** repository of the project CrackMapExec ! 🎉
-
-- 🚧 If you want to report a problem, open un [Issue](https://github.com/mpgn/CrackMapExec/issues) 
-- 🔀 If you want to contribute, open a [Pull Request](https://github.com/mpgn/CrackMapExec/pulls)
-- 💬 If you want to discuss, open a [Discussion](https://github.com/mpgn/CrackMapExec/discussions)
-
-# Acknowledgments
 **(These are the people who did the hard stuff)**
 
 This project was originally inspired by:
